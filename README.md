@@ -1,1 +1,1 @@
-React Native assignment
+React Native assignment.
